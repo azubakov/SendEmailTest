@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/azubakov/AndroidStudioProjects/SendEmailTest1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b96175849113f1e5917e36086ce127b7437e812a">
+        <dex dex="/home/azubakov/AndroidStudioProjects/SendEmailTest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d94fd68824a4a189e9adc80de97de923ca8c1d84/classes.dex" />
+    </item>
+    <item
+        jar="/home/azubakov/AndroidStudioProjects/SendEmailTest1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="92c213933c747cf73335dc6a43f24e4a22562c70">
+        <dex dex="/home/azubakov/AndroidStudioProjects/SendEmailTest1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cfadcf8be872566cb3be3cb9248ab9402a845759/classes.dex" />
+    </item>
+
+</items>
